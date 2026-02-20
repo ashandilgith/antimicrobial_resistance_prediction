@@ -1,0 +1,6 @@
+.git/
+.devcontainer/
+.github/
+__pycache__/
+mlruns/
+mock_patients.csv
